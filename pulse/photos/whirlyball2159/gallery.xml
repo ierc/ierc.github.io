@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simpleviewerGallery maxImageWidth = "490" maxImageHeight = "400" textColor = "#D5E800" frameColor = "#D5E800" frameWidth = "7" stagePadding = "5" thumbnailColumns = "2" thumbnailRows = "4" navPosition = "right" title = "Pictures" enableRightClickOpen = "true" backgroundImagePath = "" imagePath = "" thumbPath = "">
+<image>
+	<filename>_DSC0009.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0010.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0011.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0014.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0015.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0017.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0024.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0025.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0026.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0027.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0030.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0031.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0032.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0033.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0034.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0036.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0037.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0038.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0039.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0040.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0041.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0042.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0043.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0044.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0045.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0047.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0048.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0049.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0051.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0052.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0053.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0054.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0057.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0058.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0061.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0065.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0067.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0069.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0073.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0077.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0078.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0079.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0080.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0081.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0082.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0083.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0085.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0087.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0088.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0090.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0091.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0092.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0094.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0097.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0099.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0100.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0101.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0103.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0105.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0107.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0111.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0112.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0115.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0117.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0118.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0119.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0121.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0122.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0123.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0124.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0125.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0126.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0127.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0130.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0131.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0132.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0133.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0134.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0135.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0136.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0137.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0138.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0140.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0141.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0142.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0143.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0145.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0148.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0149.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0152.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0155.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0156.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0157.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0158.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0159.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0161.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0162.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0163.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0164.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0165.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0166.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0167.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0171.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0172.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0173.jpg</filename>
+</image>
+<image>
+	<filename>_DSC0174.jpg</filename>
+</image>
+</simpleviewerGallery>
