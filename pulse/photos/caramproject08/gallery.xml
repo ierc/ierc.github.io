@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simpleviewerGallery maxImageWidth = "490" maxImageHeight = "400" textColor = "#D5E800" frameColor = "#D5E800" frameWidth = "7" stagePadding = "5" thumbnailColumns = "2" thumbnailRows = "4" navPosition = "right" title = "Pictures" enableRightClickOpen = "true" backgroundImagePath = "" imagePath = "" thumbPath = "">
+<image>
+	<filename>PIC-0020.jpg</filename>
+</image>
+<image>
+	<filename>PIC-0021.jpg</filename>
+</image>
+<image>
+	<filename>PIC-0022.jpg</filename>
+</image>
+<image>
+	<filename>PIC-0023.jpg</filename>
+</image>
+<image>
+	<filename>PIC-0024.jpg</filename>
+</image>
+<image>
+	<filename>PIC-0025.jpg</filename>
+</image>
+<image>
+	<filename>PIC-0026.jpg</filename>
+</image>
+<image>
+	<filename>PIC-0027.jpg</filename>
+</image>
+<image>
+	<filename>PIC-0028.jpg</filename>
+</image>
+<image>
+	<filename>PIC-0029.jpg</filename>
+</image>
+<image>
+	<filename>PIC-0030.jpg</filename>
+</image>
+<image>
+	<filename>PIC-0031.jpg</filename>
+</image>
+<image>
+	<filename>PIC-0032.jpg</filename>
+</image>
+<image>
+	<filename>PIC-0033.jpg</filename>
+</image>
+<image>
+	<filename>PIC-0034.jpg</filename>
+</image>
+<image>
+	<filename>PIC-0035.jpg</filename>
+</image>
+<image>
+	<filename>PIC-0036.jpg</filename>
+</image>
+<image>
+	<filename>PIC-0037.jpg</filename>
+</image>
+<image>
+	<filename>PIC-0038.jpg</filename>
+</image>
+<image>
+	<filename>PIC-0039.jpg</filename>
+</image>
+</simpleviewerGallery>
