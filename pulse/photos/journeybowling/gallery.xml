@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simpleviewerGallery maxImageWidth = "490" maxImageHeight = "400" textColor = "#D5E800" frameColor = "#D5E800" frameWidth = "7" stagePadding = "5" thumbnailColumns = "2" thumbnailRows = "4" navPosition = "right" title = "Pictures" enableRightClickOpen = "true" backgroundImagePath = "" imagePath = "" thumbPath = "">
+<image>
+	<filename>081208-014.jpg</filename>
+</image>
+<image>
+	<filename>081208-013.jpg</filename>
+</image>
+<image>
+	<filename>081208-012.jpg</filename>
+</image>
+<image>
+	<filename>081208-011.jpg</filename>
+</image>
+<image>
+	<filename>081208-010.jpg</filename>
+</image>
+<image>
+	<filename>081208-009.jpg</filename>
+</image>
+<image>
+	<filename>081208-008.jpg</filename>
+</image>
+<image>
+	<filename>081208-007.jpg</filename>
+</image>
+<image>
+	<filename>081208-006.jpg</filename>
+</image>
+<image>
+	<filename>081208-005.jpg</filename>
+</image>
+<image>
+	<filename>081208-004.jpg</filename>
+</image>
+<image>
+	<filename>081208-003.jpg</filename>
+</image>
+<image>
+	<filename>081208-002.jpg</filename>
+</image>
+<image>
+	<filename>081208-001.jpg</filename>
+</image>
+</simpleviewerGallery>

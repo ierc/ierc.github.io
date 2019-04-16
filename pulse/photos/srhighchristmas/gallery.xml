@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simpleviewerGallery maxImageWidth = "490" maxImageHeight = "400" textColor = "#D5E800" frameColor = "#D5E800" frameWidth = "7" stagePadding = "5" thumbnailColumns = "2" thumbnailRows = "4" navPosition = "right" title = "Pictures" enableRightClickOpen = "true" backgroundImagePath = "" imagePath = "" thumbPath = "">
+<image>
+	<filename>srhighchristmas08081221_001.jpg</filename>
+</image>
+<image>
+	<filename>srhighchristmas08081221_002.jpg</filename>
+</image>
+<image>
+	<filename>srhighchristmas08081221_003.jpg</filename>
+</image>
+<image>
+	<filename>srhighchristmas08081221_004.jpg</filename>
+</image>
+<image>
+	<filename>srhighchristmas08081221_005.jpg</filename>
+</image>
+<image>
+	<filename>srhighchristmas08081221_006.jpg</filename>
+</image>
+<image>
+	<filename>srhighchristmas08081221_007.jpg</filename>
+</image>
+<image>
+	<filename>srhighchristmas08081221_008.jpg</filename>
+</image>
+<image>
+	<filename>srhighchristmas08081221_009.jpg</filename>
+</image>
+<image>
+	<filename>srhighchristmas08081221_010.jpg</filename>
+</image>
+<image>
+	<filename>srhighchristmas08081221_011.jpg</filename>
+</image>
+<image>
+	<filename>srhighchristmas08081221_012.jpg</filename>
+</image>
+<image>
+	<filename>srhighchristmas08081221_013.jpg</filename>
+</image>
+<image>
+	<filename>srhighchristmas08081221_014.jpg</filename>
+</image>
+<image>
+	<filename>srhighchristmas08081221_015.jpg</filename>
+</image>
+<image>
+	<filename>srhighchristmas08081221_016.jpg</filename>
+</image>
+<image>
+	<filename>srhighchristmas08081221_017.jpg</filename>
+</image>
+<image>
+	<filename>srhighchristmas08081221_018.jpg</filename>
+</image>
+<image>
+	<filename>srhighchristmas08081221_019.jpg</filename>
+</image>
+<image>
+	<filename>srhighchristmas08081221_020.jpg</filename>
+</image>
+</simpleviewerGallery>

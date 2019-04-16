@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simpleviewerGallery maxImageWidth = "490" maxImageHeight = "400" textColor = "#D5E800" frameColor = "#D5E800" frameWidth = "7" stagePadding = "5" thumbnailColumns = "2" thumbnailRows = "4" navPosition = "right" title = "Pictures" enableRightClickOpen = "true" backgroundImagePath = "" imagePath = "" thumbPath = "">
+<image>
+	<filename>Jrhighparty_081217_001.jpg</filename>
+</image>
+<image>
+	<filename>Jrhighparty_081217_002.jpg</filename>
+</image>
+<image>
+	<filename>Jrhighparty_081217_003.jpg</filename>
+</image>
+<image>
+	<filename>Jrhighparty_081217_004.jpg</filename>
+</image>
+<image>
+	<filename>Jrhighparty_081217_005.jpg</filename>
+</image>
+<image>
+	<filename>Jrhighparty_081217_006.jpg</filename>
+</image>
+<image>
+	<filename>Jrhighparty_081217_007.jpg</filename>
+</image>
+<image>
+	<filename>Jrhighparty_081217_008.jpg</filename>
+</image>
+<image>
+	<filename>Jrhighparty_081217_009.jpg</filename>
+</image>
+<image>
+	<filename>Jrhighparty_081217_010.jpg</filename>
+</image>
+<image>
+	<filename>Jrhighparty_081217_011.jpg</filename>
+</image>
+<image>
+	<filename>Jrhighparty_081217_012.jpg</filename>
+</image>
+<image>
+	<filename>Jrhighparty_081217_013.jpg</filename>
+</image>
+<image>
+	<filename>Jrhighparty_081217_014.jpg</filename>
+</image>
+<image>
+	<filename>Jrhighparty_081217_015.jpg</filename>
+</image>
+<image>
+	<filename>Jrhighparty_081217_016.jpg</filename>
+</image>
+</simpleviewerGallery>

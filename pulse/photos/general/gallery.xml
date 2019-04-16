@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simpleviewerGallery maxImageWidth = "490" maxImageHeight = "400" textColor = "#D5E800" frameColor = "#D5E800" frameWidth = "7" stagePadding = "5" thumbnailColumns = "2" thumbnailRows = "4" navPosition = "right" title = "Pictures" enableRightClickOpen = "true" backgroundImagePath = "" imagePath = "" thumbPath = "">
+<image>
+	<filename>April 30, 2008-0010.jpg</filename>
+</image>
+<image>
+	<filename>April 30, 2008-0008.jpg</filename>
+</image>
+<image>
+	<filename>April 30, 2008-0009.jpg</filename>
+</image>
+<image>
+	<filename>April 30, 2008-0007.jpg</filename>
+</image>
+<image>
+	<filename>April 30, 2008-0006.jpg</filename>
+</image>
+<image>
+	<filename>April 30, 2008-0005.jpg</filename>
+</image>
+<image>
+	<filename>April 30, 2008-0004.jpg</filename>
+</image>
+<image>
+	<filename>April 30, 2008-0003.jpg</filename>
+</image>
+<image>
+	<filename>April 30, 2008-0001.jpg</filename>
+</image>
+<image>
+	<filename>April 30, 2008-0002.jpg</filename>
+</image>
+<image>
+	<filename>April 27, 2008-0012.jpg</filename>
+</image>
+</simpleviewerGallery>

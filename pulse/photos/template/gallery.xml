@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simpleviewerGallery maxImageWidth = "490" maxImageHeight = "400" textColor = "#D5E800" frameColor = "#D5E800" frameWidth = "7" stagePadding = "5" thumbnailColumns = "2" thumbnailRows = "4" navPosition = "right" title = "Pictures" enableRightClickOpen = "true" backgroundImagePath = "" imagePath = "" thumbPath = "">
+<image>
+	<filename>September 01, 2008-055.jpg</filename>
+</image>
+<image>
+	<filename>September 01, 2008-050.jpg</filename>
+</image>
+<image>
+	<filename>September 01, 2008-052.jpg</filename>
+</image>
+<image>
+	<filename>September 01, 2008-053.jpg</filename>
+</image>
+<image>
+	<filename>September 01, 2008-054.jpg</filename>
+</image>
+<image>
+	<filename>September 01, 2008-051.jpg</filename>
+</image>
+<image>
+	<filename>August 31, 2008-045.jpg</filename>
+</image>
+<image>
+	<filename>August 31, 2008-046.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-056.jpg</filename>
+</image>
+<image>
+	<filename>August 31, 2008-049.jpg</filename>
+</image>
+<image>
+	<filename>August 31, 2008-044.jpg</filename>
+</image>
+<image>
+	<filename>August 31, 2008-047.jpg</filename>
+</image>
+<image>
+	<filename>August 31, 2008-048.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-042.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-041.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-040.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-039.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-043.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-034.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-032.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-037.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-033.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-038.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-036.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-035.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-028.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-026.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-027.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-029.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-030.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-031.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-018.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-024.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-021.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-019.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-022.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-023.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-025.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-020.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-011.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-015.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-017.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-012.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-016.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-013.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-014.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-010.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-006.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-008.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-004.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-007.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-009.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-005.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-001.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-002.jpg</filename>
+</image>
+<image>
+	<filename>August 30, 2008-003.jpg</filename>
+</image>
+<image>
+	<filename>081208-014.jpg</filename>
+</image>
+<image>
+	<filename>081208-013.jpg</filename>
+</image>
+<image>
+	<filename>081208-012.jpg</filename>
+</image>
+<image>
+	<filename>081208-011.jpg</filename>
+</image>
+<image>
+	<filename>081208-010.jpg</filename>
+</image>
+<image>
+	<filename>081208-009.jpg</filename>
+</image>
+<image>
+	<filename>081208-008.jpg</filename>
+</image>
+<image>
+	<filename>081208-007.jpg</filename>
+</image>
+<image>
+	<filename>081208-006.jpg</filename>
+</image>
+<image>
+	<filename>081208-005.jpg</filename>
+</image>
+<image>
+	<filename>081208-004.jpg</filename>
+</image>
+<image>
+	<filename>081208-003.jpg</filename>
+</image>
+<image>
+	<filename>081208-002.jpg</filename>
+</image>
+<image>
+	<filename>081208-001.jpg</filename>
+</image>
+<image>
+	<filename>bridgeport_brianscamera7.jpg</filename>
+</image>
+<image>
+	<filename>bridgeport_brianscamera6.jpg</filename>
+</image>
+<image>
+	<filename>bridgeport_brianscamera5.jpg</filename>
+</image>
+<image>
+	<filename>bridgeport_brianscamera4.jpg</filename>
+</image>
+<image>
+	<filename>bridgeport_brianscamera3.jpg</filename>
+</image>
+<image>
+	<filename>bridgeport_brianscamera2.jpg</filename>
+</image>
+<image>
+	<filename>bridgeport_brianscamera1.jpg</filename>
+</image>
+<image>
+	<filename>bridgeport_brianscamera0.jpg</filename>
+</image>
+<image>
+	<filename>080108-090.jpg</filename>
+</image>
+<image>
+	<filename>080108-089.jpg</filename>
+</image>
+<image>
+	<filename>080108-088.jpg</filename>
+</image>
+<image>
+	<filename>080108-087.jpg</filename>
+</image>
+<image>
+	<filename>080108-086.jpg</filename>
+</image>
+<image>
+	<filename>080108-085.jpg</filename>
+</image>
+<image>
+	<filename>080108-084.jpg</filename>
+</image>
+<image>
+	<filename>080108-083.jpg</filename>
+</image>
+<image>
+	<filename>080108-082.jpg</filename>
+</image>
+<image>
+	<filename>080108-081.jpg</filename>
+</image>
+<image>
+	<filename>080108-080.jpg</filename>
+</image>
+<image>
+	<filename>080108-079.jpg</filename>
+</image>
+<image>
+	<filename>080108-078.jpg</filename>
+</image>
+<image>
+	<filename>080108-077.jpg</filename>
+</image>
+<image>
+	<filename>080108-076.jpg</filename>
+</image>
+<image>
+	<filename>080108-075.jpg</filename>
+</image>
+<image>
+	<filename>080108-074.jpg</filename>
+</image>
+<image>
+	<filename>080108-073.jpg</filename>
+</image>
+<image>
+	<filename>080108-072.jpg</filename>
+</image>
+<image>
+	<filename>080108-071.jpg</filename>
+</image>
+<image>
+	<filename>080108-070.jpg</filename>
+</image>
+<image>
+	<filename>080108-069.jpg</filename>
+</image>
+<image>
+	<filename>080108-068.jpg</filename>
+</image>
+<image>
+	<filename>080108-067.jpg</filename>
+</image>
+<image>
+	<filename>080108-066.jpg</filename>
+</image>
+<image>
+	<filename>080108-065.jpg</filename>
+</image>
+<image>
+	<filename>080108-064.jpg</filename>
+</image>
+<image>
+	<filename>080108-063.jpg</filename>
+</image>
+<image>
+	<filename>080108-062.jpg</filename>
+</image>
+<image>
+	<filename>080108-061.jpg</filename>
+</image>
+<image>
+	<filename>080108-060.jpg</filename>
+</image>
+<image>
+	<filename>080108-059.jpg</filename>
+</image>
+<image>
+	<filename>080108-058.jpg</filename>
+</image>
+<image>
+	<filename>080108-057.jpg</filename>
+</image>
+<image>
+	<filename>080108-056.jpg</filename>
+</image>
+<image>
+	<filename>080108-055.jpg</filename>
+</image>
+<image>
+	<filename>080108-054.jpg</filename>
+</image>
+<image>
+	<filename>080108-053.jpg</filename>
+</image>
+<image>
+	<filename>080108-052.jpg</filename>
+</image>
+<image>
+	<filename>080108-051.jpg</filename>
+</image>
+<image>
+	<filename>080108-050.jpg</filename>
+</image>
+<image>
+	<filename>080108-049.jpg</filename>
+</image>
+<image>
+	<filename>080108-048.jpg</filename>
+</image>
+<image>
+	<filename>080108-047.jpg</filename>
+</image>
+<image>
+	<filename>080108-046.jpg</filename>
+</image>
+<image>
+	<filename>080108-045.jpg</filename>
+</image>
+<image>
+	<filename>080108-044.jpg</filename>
+</image>
+<image>
+	<filename>080108-043.jpg</filename>
+</image>
+<image>
+	<filename>080108-042.jpg</filename>
+</image>
+<image>
+	<filename>080108-041.jpg</filename>
+</image>
+<image>
+	<filename>080108-040.jpg</filename>
+</image>
+<image>
+	<filename>080108-039.jpg</filename>
+</image>
+<image>
+	<filename>080108-038.jpg</filename>
+</image>
+<image>
+	<filename>080108-037.jpg</filename>
+</image>
+<image>
+	<filename>080108-036.jpg</filename>
+</image>
+<image>
+	<filename>080108-035.jpg</filename>
+</image>
+<image>
+	<filename>080108-034.jpg</filename>
+</image>
+<image>
+	<filename>080108-033.jpg</filename>
+</image>
+<image>
+	<filename>080108-032.jpg</filename>
+</image>
+<image>
+	<filename>080108-031.jpg</filename>
+</image>
+<image>
+	<filename>080108-030.jpg</filename>
+</image>
+<image>
+	<filename>080108-029.jpg</filename>
+</image>
+<image>
+	<filename>080108-028.jpg</filename>
+</image>
+<image>
+	<filename>080108-027.jpg</filename>
+</image>
+<image>
+	<filename>080108-026.jpg</filename>
+</image>
+<image>
+	<filename>080108-025.jpg</filename>
+</image>
+<image>
+	<filename>080108-024.jpg</filename>
+</image>
+<image>
+	<filename>080108-023.jpg</filename>
+</image>
+<image>
+	<filename>080108-022.jpg</filename>
+</image>
+<image>
+	<filename>080108-021.jpg</filename>
+</image>
+<image>
+	<filename>080108-020.jpg</filename>
+</image>
+<image>
+	<filename>080108-019.jpg</filename>
+</image>
+<image>
+	<filename>080108-018.jpg</filename>
+</image>
+<image>
+	<filename>080108-017.jpg</filename>
+</image>
+<image>
+	<filename>080108-016.jpg</filename>
+</image>
+<image>
+	<filename>080108-015.jpg</filename>
+</image>
+<image>
+	<filename>080108-014.jpg</filename>
+</image>
+<image>
+	<filename>080108-013.jpg</filename>
+</image>
+<image>
+	<filename>080108-012.jpg</filename>
+</image>
+<image>
+	<filename>080108-011.jpg</filename>
+</image>
+<image>
+	<filename>080108-010.jpg</filename>
+</image>
+<image>
+	<filename>080108-009.jpg</filename>
+</image>
+<image>
+	<filename>080108-008.jpg</filename>
+</image>
+<image>
+	<filename>080108-007.jpg</filename>
+</image>
+<image>
+	<filename>080108-006.jpg</filename>
+</image>
+<image>
+	<filename>080108-005.jpg</filename>
+</image>
+<image>
+	<filename>080108-004.jpg</filename>
+</image>
+<image>
+	<filename>080108-003.jpg</filename>
+</image>
+<image>
+	<filename>080108-002.jpg</filename>
+</image>
+<image>
+	<filename>080108-001.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-9.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-8.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-7.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-6.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-5.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-4.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-3.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-25.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-24.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-23.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-22.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-21.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-20.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-2.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-19.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-18.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-17.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-16.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-15.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-14.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-13.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-12.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-11.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-10.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-1.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0052.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0050.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0051.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0049.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0048.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0047.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0046.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0044.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0045.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0043.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0042.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0040.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0041.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0039.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0038.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0037.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0036.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0034.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0035.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0033.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0031.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0032.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0030.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0029.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0028.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0026.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0027.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0025.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0024.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0022.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0023.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0021.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0020.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0019.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0018.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0017.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0016.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0014.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0015.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0013.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0012.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0010.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0011.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0009.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0008.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0007.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0006.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0005.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0004.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0003.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0002.jpg</filename>
+</image>
+<image>
+	<filename>March 15, 2008-0001.jpg</filename>
+</image>
+<image>
+	<filename>April 30, 2008-0010.jpg</filename>
+</image>
+<image>
+	<filename>April 30, 2008-0009.jpg</filename>
+</image>
+<image>
+	<filename>April 30, 2008-0008.jpg</filename>
+</image>
+<image>
+	<filename>April 30, 2008-0007.jpg</filename>
+</image>
+<image>
+	<filename>April 30, 2008-0006.jpg</filename>
+</image>
+<image>
+	<filename>April 30, 2008-0005.jpg</filename>
+</image>
+<image>
+	<filename>April 30, 2008-0004.jpg</filename>
+</image>
+<image>
+	<filename>April 30, 2008-0003.jpg</filename>
+</image>
+<image>
+	<filename>April 30, 2008-0002.jpg</filename>
+</image>
+<image>
+	<filename>April 30, 2008-0001.jpg</filename>
+</image>
+<image>
+	<filename>April 27, 2008-0012.jpg</filename>
+</image>
+<image>
+	<filename>April 27, 2008-0011.jpg</filename>
+</image>
+<image>
+	<filename>April 27, 2008-0010.jpg</filename>
+</image>
+<image>
+	<filename>April 27, 2008-0009.jpg</filename>
+</image>
+<image>
+	<filename>April 27, 2008-0008.jpg</filename>
+</image>
+<image>
+	<filename>April 27, 2008-0007.jpg</filename>
+</image>
+<image>
+	<filename>April 27, 2008-0006.jpg</filename>
+</image>
+<image>
+	<filename>April 27, 2008-0005.jpg</filename>
+</image>
+<image>
+	<filename>April 27, 2008-0004.jpg</filename>
+</image>
+<image>
+	<filename>April 27, 2008-0003.jpg</filename>
+</image>
+<image>
+	<filename>April 27, 2008-0002.jpg</filename>
+</image>
+<image>
+	<filename>April 27, 2008-0001.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0032.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0031.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0030.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0029.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0028.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0027.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0026.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0025.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0024.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0023.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0022.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0021.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0020.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0019.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0018.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0017.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0015.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0016.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0014.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0013.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0012.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0011.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0010.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0008.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0009.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0007.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0006.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0005.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0004.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0003.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0002.jpg</filename>
+</image>
+<image>
+	<filename>April 20, 2008-0001.jpg</filename>
+</image>
+</simpleviewerGallery>

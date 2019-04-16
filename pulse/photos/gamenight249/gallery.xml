@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simpleviewerGallery maxImageWidth = "490" maxImageHeight = "400" textColor = "#D5E800" frameColor = "#D5E800" frameWidth = "7" stagePadding = "5" thumbnailColumns = "2" thumbnailRows = "4" navPosition = "right" title = "Pictures" enableRightClickOpen = "true" backgroundImagePath = "" imagePath = "" thumbPath = "">
+<image>
+	<filename>Picture 007.jpg</filename>
+</image>
+<image>
+	<filename>Picture 009.jpg</filename>
+</image>
+<image>
+	<filename>Picture 010.jpg</filename>
+</image>
+<image>
+	<filename>Picture 014.jpg</filename>
+</image>
+<image>
+	<filename>Picture 015.jpg</filename>
+</image>
+<image>
+	<filename>Picture 016.jpg</filename>
+</image>
+<image>
+	<filename>Picture 017.jpg</filename>
+</image>
+<image>
+	<filename>Picture 018.jpg</filename>
+</image>
+<image>
+	<filename>Picture 021.jpg</filename>
+</image>
+<image>
+	<filename>Picture 022.jpg</filename>
+</image>
+<image>
+	<filename>Picture 025.jpg</filename>
+</image>
+<image>
+	<filename>Picture 026.jpg</filename>
+</image>
+<image>
+	<filename>Picture 027.jpg</filename>
+</image>
+<image>
+	<filename>Picture 028.jpg</filename>
+</image>
+<image>
+	<filename>Picture 029.jpg</filename>
+</image>
+<image>
+	<filename>Picture 030.jpg</filename>
+</image>
+<image>
+	<filename>Picture 031.jpg</filename>
+</image>
+<image>
+	<filename>Picture 032.jpg</filename>
+</image>
+<image>
+	<filename>Picture 033.jpg</filename>
+</image>
+<image>
+	<filename>Picture 034.jpg</filename>
+</image>
+<image>
+	<filename>Picture 035.jpg</filename>
+</image>
+<image>
+	<filename>Picture 036.jpg</filename>
+</image>
+<image>
+	<filename>Picture 037.jpg</filename>
+</image>
+<image>
+	<filename>Picture 038.jpg</filename>
+</image>
+<image>
+	<filename>Picture 040.jpg</filename>
+</image>
+<image>
+	<filename>Picture 041.jpg</filename>
+</image>
+<image>
+	<filename>Picture 045.jpg</filename>
+</image>
+<image>
+	<filename>Picture 046.jpg</filename>
+</image>
+<image>
+	<filename>Picture 047.jpg</filename>
+</image>
+<image>
+	<filename>Picture 048.jpg</filename>
+</image>
+<image>
+	<filename>Picture 049.jpg</filename>
+</image>
+<image>
+	<filename>Picture 050.jpg</filename>
+</image>
+<image>
+	<filename>Picture 051.jpg</filename>
+</image>
+<image>
+	<filename>Picture 052.jpg</filename>
+</image>
+<image>
+	<filename>Picture 054.jpg</filename>
+</image>
+<image>
+	<filename>Picture 056.jpg</filename>
+</image>
+<image>
+	<filename>Picture 058.jpg</filename>
+</image>
+<image>
+	<filename>Picture 059.jpg</filename>
+</image>
+<image>
+	<filename>Picture 060.jpg</filename>
+</image>
+<image>
+	<filename>Picture 061.jpg</filename>
+</image>
+<image>
+	<filename>Picture 062.jpg</filename>
+</image>
+<image>
+	<filename>Picture 063.jpg</filename>
+</image>
+<image>
+	<filename>Picture 066.jpg</filename>
+</image>
+<image>
+	<filename>Picture 065.jpg</filename>
+</image>
+<image>
+	<filename>Picture 069.jpg</filename>
+</image>
+<image>
+	<filename>Picture 070.jpg</filename>
+</image>
+<image>
+	<filename>Picture 064.jpg</filename>
+</image>
+<image>
+	<filename>Picture 068.jpg</filename>
+</image>
+<image>
+	<filename>Picture 072.jpg</filename>
+</image>
+<image>
+	<filename>Picture 073.jpg</filename>
+</image>
+<image>
+	<filename>Picture 071.jpg</filename>
+</image>
+<image>
+	<filename>Picture 074.jpg</filename>
+</image>
+<image>
+	<filename>Picture 075.jpg</filename>
+</image>
+<image>
+	<filename>Picture 076.jpg</filename>
+</image>
+<image>
+	<filename>Picture 079.jpg</filename>
+</image>
+<image>
+	<filename>Picture 080.jpg</filename>
+</image>
+<image>
+	<filename>Picture 081.jpg</filename>
+</image>
+<image>
+	<filename>Picture 082.jpg</filename>
+</image>
+<image>
+	<filename>Picture 084.jpg</filename>
+</image>
+<image>
+	<filename>Picture 085.jpg</filename>
+</image>
+<image>
+	<filename>Picture 086.jpg</filename>
+</image>
+<image>
+	<filename>Picture 087.jpg</filename>
+</image>
+<image>
+	<filename>Picture 088.jpg</filename>
+</image>
+<image>
+	<filename>Picture 089.jpg</filename>
+</image>
+<image>
+	<filename>Picture 090.jpg</filename>
+</image>
+<image>
+	<filename>Picture 093.jpg</filename>
+</image>
+<image>
+	<filename>Picture 095.jpg</filename>
+</image>
+<image>
+	<filename>Picture 096.jpg</filename>
+</image>
+<image>
+	<filename>Picture 097.jpg</filename>
+</image>
+<image>
+	<filename>Picture 098.jpg</filename>
+</image>
+<image>
+	<filename>Picture 100.jpg</filename>
+</image>
+<image>
+	<filename>Picture 102.jpg</filename>
+</image>
+<image>
+	<filename>Picture 103.jpg</filename>
+</image>
+</simpleviewerGallery>

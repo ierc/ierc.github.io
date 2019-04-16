@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simpleviewerGallery maxImageWidth = "490" maxImageHeight = "400" textColor = "#D5E800" frameColor = "#D5E800" frameWidth = "7" stagePadding = "5" thumbnailColumns = "2" thumbnailRows = "4" navPosition = "right" title = "Pictures" enableRightClickOpen = "true" backgroundImagePath = "" imagePath = "" thumbPath = "">
+<image>
+	<filename>HPIM0437.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0438.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0439.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0440.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0441.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0443.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0444.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0445.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0446.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0447.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0448.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0449.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0450.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0451.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0452.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0453.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0454.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0455.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0456.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0457.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0458.jpg</filename>
+</image>
+<image>
+	<filename>HPIM0459.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0001.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0002.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0004.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0007.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0008.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0010.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0012.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0013.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0014.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0016.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0018.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0019.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0020.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0023.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0025.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0026.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0027.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0034.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0036.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0038.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0040.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0041.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0043.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0045.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0046.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0048.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0052.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0054.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0056.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0061.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0062.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0063.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0067.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0065.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0068.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0071.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0074.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0075.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0076.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0080.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0083.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0084.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0085.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0086.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0088.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0089.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0090.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0091.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0092.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0093.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0094.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0096.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0097.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0098.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0099.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0101.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0105.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0106.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0107.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0109.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0110.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0111.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0112.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0115.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0117.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0116.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0119.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0121.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0125.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0129.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0130.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0135.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0136.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0137.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0138.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0139.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0142.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0141.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0143.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0144.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0145.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0146.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0148.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0149.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0154.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0155.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0156.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0157.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0158.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0159.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0162.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0163.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0164.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0165.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0167.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0168.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0169.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0170.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0171.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0172.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0175.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0176.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0177.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0179.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0178.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0180.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0181.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0182.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0183.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0184.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0185.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0186.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0187.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0188.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0189.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0190.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0191.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0192.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0193.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0195.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0197.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0198.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0199.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0200.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0201.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0203.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0204.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0205.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0206.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0207.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0208.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0209.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0212.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0213.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0214.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0215.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0216.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0217.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0218.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0219.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0220.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0221.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0222.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0223.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0224.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0227.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0228.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0232.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0233.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0235.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0236.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0238.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0240.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0241.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0242.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0243.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0244.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0245.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0246.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0247.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0248.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0249.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0253.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0257.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0258.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0269.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0270.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0271.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0272.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0273.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0274.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0275.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0276.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0277.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0278.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0279.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0280.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0281.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0282.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0283.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0284.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0285.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0286.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0287.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0288.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0289.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0290.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0292.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0291.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0293.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0294.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0295.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0296.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0297.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0298.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0299.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0300.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0302.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0303.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0305.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0304.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0306.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0307.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0308.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0309.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0310.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0312.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0316.jpg</filename>
+</image>
+<image>
+	<filename>IMG_0317.jpg</filename>
+</image>
+</simpleviewerGallery>

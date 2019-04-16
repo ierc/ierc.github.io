@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simpleviewerGallery maxImageWidth = "490" maxImageHeight = "400" textColor = "#D5E800" frameColor = "#D5E800" frameWidth = "7" stagePadding = "5" thumbnailColumns = "2" thumbnailRows = "4" navPosition = "right" title = "Pictures" enableRightClickOpen = "true" backgroundImagePath = "" imagePath = "" thumbPath = "">
+<image>
+	<filename>summerbash-9.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-8.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-7.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-6.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-5.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-4.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-3.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-25.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-24.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-23.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-22.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-21.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-20.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-2.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-19.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-18.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-17.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-16.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-15.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-14.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-13.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-12.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-11.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-10.jpg</filename>
+</image>
+<image>
+	<filename>summerbash-1.jpg</filename>
+</image>
+</simpleviewerGallery>

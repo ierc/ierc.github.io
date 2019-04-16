@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simpleviewerGallery maxImageWidth = "490" maxImageHeight = "400" textColor = "#D5E800" frameColor = "#D5E800" frameWidth = "7" stagePadding = "5" thumbnailColumns = "2" thumbnailRows = "4" navPosition = "right" title = "Pictures" enableRightClickOpen = "true" backgroundImagePath = "" imagePath = "" thumbPath = "">
+<image>
+	<filename>080108-090.jpg</filename>
+</image>
+<image>
+	<filename>080108-089.jpg</filename>
+</image>
+<image>
+	<filename>080108-088.jpg</filename>
+</image>
+<image>
+	<filename>080108-087.jpg</filename>
+</image>
+<image>
+	<filename>080108-086.jpg</filename>
+</image>
+<image>
+	<filename>080108-085.jpg</filename>
+</image>
+<image>
+	<filename>080108-084.jpg</filename>
+</image>
+<image>
+	<filename>080108-083.jpg</filename>
+</image>
+<image>
+	<filename>080108-082.jpg</filename>
+</image>
+<image>
+	<filename>080108-081.jpg</filename>
+</image>
+<image>
+	<filename>080108-080.jpg</filename>
+</image>
+<image>
+	<filename>080108-079.jpg</filename>
+</image>
+<image>
+	<filename>080108-078.jpg</filename>
+</image>
+<image>
+	<filename>080108-077.jpg</filename>
+</image>
+<image>
+	<filename>080108-076.jpg</filename>
+</image>
+<image>
+	<filename>080108-075.jpg</filename>
+</image>
+<image>
+	<filename>080108-074.jpg</filename>
+</image>
+<image>
+	<filename>080108-073.jpg</filename>
+</image>
+<image>
+	<filename>080108-072.jpg</filename>
+</image>
+<image>
+	<filename>080108-071.jpg</filename>
+</image>
+<image>
+	<filename>080108-070.jpg</filename>
+</image>
+<image>
+	<filename>080108-069.jpg</filename>
+</image>
+<image>
+	<filename>080108-068.jpg</filename>
+</image>
+<image>
+	<filename>080108-067.jpg</filename>
+</image>
+<image>
+	<filename>080108-066.jpg</filename>
+</image>
+<image>
+	<filename>080108-065.jpg</filename>
+</image>
+<image>
+	<filename>080108-064.jpg</filename>
+</image>
+<image>
+	<filename>080108-063.jpg</filename>
+</image>
+<image>
+	<filename>080108-062.jpg</filename>
+</image>
+<image>
+	<filename>080108-061.jpg</filename>
+</image>
+<image>
+	<filename>080108-060.jpg</filename>
+</image>
+<image>
+	<filename>080108-059.jpg</filename>
+</image>
+<image>
+	<filename>080108-058.jpg</filename>
+</image>
+<image>
+	<filename>080108-057.jpg</filename>
+</image>
+<image>
+	<filename>080108-056.jpg</filename>
+</image>
+<image>
+	<filename>080108-055.jpg</filename>
+</image>
+<image>
+	<filename>080108-054.jpg</filename>
+</image>
+<image>
+	<filename>080108-053.jpg</filename>
+</image>
+<image>
+	<filename>080108-052.jpg</filename>
+</image>
+<image>
+	<filename>080108-051.jpg</filename>
+</image>
+<image>
+	<filename>080108-050.jpg</filename>
+</image>
+<image>
+	<filename>080108-049.jpg</filename>
+</image>
+<image>
+	<filename>080108-048.jpg</filename>
+</image>
+<image>
+	<filename>080108-047.jpg</filename>
+</image>
+<image>
+	<filename>080108-046.jpg</filename>
+</image>
+</simpleviewerGallery>
